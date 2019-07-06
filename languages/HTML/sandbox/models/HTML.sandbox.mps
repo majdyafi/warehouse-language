@@ -51,6 +51,14 @@
       <property role="21oCO7" value="1" />
       <ref role="21oCO5" node="6JF6XPagys8" resolve="Tv Stand" />
     </node>
+    <node concept="21oCO6" id="6JF6XPajBgp" role="21oCPM">
+      <property role="21oCO7" value="2" />
+      <ref role="21oCO5" node="6JF6XPagys3" resolve="Table" />
+    </node>
+    <node concept="21oCO6" id="6JF6XPajBgz" role="21oCPM">
+      <property role="21oCO7" value="10" />
+      <ref role="21oCO5" node="6JF6XPajBgu" resolve="Allen" />
+    </node>
   </node>
   <node concept="23BXjO" id="6JF6XPagys2">
     <node concept="23BXjc" id="6JF6XPagys3" role="23BXjP">
@@ -66,6 +74,11 @@
       <property role="TrG5h" value="Bolt" />
       <property role="23BXjf" value="Oak" />
       <property role="23BXjL" value="20" />
+    </node>
+    <node concept="23BXjc" id="6JF6XPajBgu" role="23BXjP">
+      <property role="TrG5h" value="Allen" />
+      <property role="23BXjf" value="Iron" />
+      <property role="23BXjL" value="19" />
     </node>
   </node>
 </model>
